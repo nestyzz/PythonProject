@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+pytest
+pytest-asyncio
+pyxlsb
+httpx
+python-multipart

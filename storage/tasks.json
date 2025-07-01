@@ -1,0 +1,18 @@
+{
+  "08cd781c-e37c-46d0-87a3-f821d5bbc471": {
+    "status": "failed",
+    "error": "File contains no valid workbook part"
+  },
+  "796368c0-ca9f-406b-ad34-673b0776d70d": {
+    "status": "success"
+  },
+  "a2936057-9132-4036-9a8a-d92da129e769": {
+    "status": "success"
+  },
+  "2981ddd7-466e-43b2-aae7-cb07521fcbc3": {
+    "status": "success"
+  },
+  "1d011e38-631f-4e6b-996e-1a36efe35da9": {
+    "status": "success"
+  }
+}
